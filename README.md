@@ -18,7 +18,7 @@ Dibuat dengan Expo (React Native), NativeWind (Tailwind CSS) dan React Navi.
 ![](screenshots/4.png)
 
 ## Cara Menjalankan
-git clone <link https://github.com/dansatr/ARTAFINC>
+git clone <link https://github.com/dansatr/ARTAFINC>        
 cd arta
 npm install
 npx expo start --web
@@ -26,3 +26,6 @@ npx expo start --web
 ## LINK
 GDrive: https://drive.google.com/drive/folders/1tBE0Nj0j5_CcKmAgUo7KQmM0B_mA39cN?usp=sharing
 
+## Penjelasan Konsep React Native
+
+## Analisis Kebutuhan
